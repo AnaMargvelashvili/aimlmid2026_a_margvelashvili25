@@ -1,1 +1,56 @@
-# aimlmid2026_a_margvelashvili25
+# AI and ML for Cybersecurity — Midterm
+Student: Ana Margvelashvili  
+Repo: aimlmid2026_a_margvelashvili25
+
+## Project structure
+- `correlation/` — correlation task code
+- `spam/` — spam classifier (train, features, app, plots)
+- `data/` — dataset csv
+- `images/` — saved plots/screenshots used in this README
+
+---
+
+## 1) Correlation task
+Source: max.ge/aiml_midterm/19582_html
+
+### Method
+I collected (x, y) coordinates from the interactive plot (blue dots) and computed Pearson correlation coefficient.
+
+### Result
+- Pearson r = **TODO**
+
+### Plot
+![Correlation scatter](images/correlation_scatter.png)
+
+Code: `correlation/correlation.py`
+
+---
+
+## 2) Spam email detection (Logistic Regression)
+Dataset: `data/` (csv uploaded to this repo)
+
+### Train/test split
+70% train / 30% test
+
+### Result
+- Accuracy = **TODO**
+- Confusion matrix = **TODO**
+
+### Visualizations
+1) Class distribution  
+![Class distribution](images/class_distribution.png)
+
+2) Top coefficients  
+![Top coefficients](images/top_coefficients.png)
+
+Code: `spam/train.py`, `spam/plots.py`, `spam/features.py`, `spam/app.py`
+
+---
+
+## How to run
+```bash
+pip install -r requirements.txt
+python correlation/correlation.py
+python spam/train.py
+python spam/plots.py
+python spam/app.py
