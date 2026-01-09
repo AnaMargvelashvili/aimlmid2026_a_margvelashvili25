@@ -38,6 +38,9 @@ Dataset: `data/` (csv uploaded to this repo)
 - Confusion matrix = **TODO**
 
 ### Confusion Matrix
+The model correctly classifies most spam and non-spam messages.  
+True Positives and True Negatives dominate the matrix, resulting in high overall accuracy (~95%).
+
 
 ![Confusion Matrix](images/confusion_matrix.png)
 
