@@ -21,6 +21,7 @@ I collected (x, y) coordinates from the interactive plot (blue dots) and compute
 
 ### Plot
 ![Correlation scatter](images/correlation_scatter.png)
+<img width="1653" height="993" alt="correlation_plot" src="https://github.com/user-attachments/assets/570f04ae-30e9-4e2c-af61-74a323ac3456" />
 
 Code: `correlation/correlation.py`
 
