@@ -36,6 +36,7 @@ Dataset: `data/` (csv uploaded to this repo)
 ### Result
 - Accuracy = **TODO**
 - Confusion matrix = **TODO**
+<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/2b902ecd-5e6c-47c3-a3d0-fe7d36a73419" />
 
 ### Visualizations
 1) Class distribution  
