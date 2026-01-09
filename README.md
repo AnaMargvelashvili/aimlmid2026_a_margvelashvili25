@@ -55,6 +55,9 @@ True Positives and True Negatives dominate the matrix, resulting in high overall
 
 3) Top coefficients  
 ![Top coefficients](images/top_coefficients.png)
+<img width="640" height="480" alt="top_coefficients" src="https://github.com/user-attachments/assets/a08e2273-dbf7-4a94-be95-9ae66dd11430" />
+
+
 
 Code: `spam/train.py`, `spam/plots.py`, `spam/features.py`, `spam/app.py`
 
