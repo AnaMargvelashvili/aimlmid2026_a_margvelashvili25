@@ -50,7 +50,10 @@ True Positives and True Negatives dominate the matrix, resulting in high overall
 1) Class distribution  
 ![Class distribution](images/class_distribution.png)
 
-2) Top coefficients  
+<img width="640" height="480" alt="class_distribution" src="https://github.com/user-attachments/assets/9dac2ad8-b267-4cf2-8f38-b2b5b913cce8" />
+
+
+3) Top coefficients  
 ![Top coefficients](images/top_coefficients.png)
 
 Code: `spam/train.py`, `spam/plots.py`, `spam/features.py`, `spam/app.py`
